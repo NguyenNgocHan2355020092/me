@@ -1,0 +1,427 @@
+{
+  "fileKey": "GXtXMzy9DoCWSTGJbzAqXZ",
+  "frames": [
+    {
+      "id": "46:70",
+      "name": "1793237695292_3420311594267641864_3420311594267641864_1674741e1179cc903ed7354153821a30 1 [Vectorized]",
+      "parent": "0:1",
+      "width": 1349,
+      "height": 1344
+    },
+    {
+      "id": "1:4",
+      "name": "login",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "35:113",
+      "name": "paper",
+      "parent": "1:4",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "41:2044",
+      "name": "forgotpass-mail",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "41:2045",
+      "name": "paper",
+      "parent": "41:2044",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "48:3203",
+      "name": "forgotpass-code",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:3204",
+      "name": "paper",
+      "parent": "48:3203",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "48:3318",
+      "name": "forgotpass-newpass",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:3319",
+      "name": "paper",
+      "parent": "48:3318",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "48:3422",
+      "name": "forgotpass-done",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:3423",
+      "name": "paper",
+      "parent": "48:3422",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "48:3473",
+      "name": "forgotpass-fade4",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:3474",
+      "name": "paper",
+      "parent": "48:3473",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "48:3253",
+      "name": "forgotpass-fade1",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:3254",
+      "name": "paper",
+      "parent": "48:3253",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "48:3286",
+      "name": "forgotpass-fade2",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:3287",
+      "name": "paper",
+      "parent": "48:3286",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "48:3380",
+      "name": "forgotpass-fade3",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:3381",
+      "name": "paper",
+      "parent": "48:3380",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "48:2915",
+      "name": "forgotpass-An1",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:2916",
+      "name": "paper",
+      "parent": "48:2915",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "50:3567",
+      "name": "forgotpass-An2",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "50:3568",
+      "name": "paper",
+      "parent": "50:3567",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "48:3488",
+      "name": "forgotpass-allfade",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:3489",
+      "name": "paper",
+      "parent": "48:3488",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "41:90",
+      "name": "Login-An-regi",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "41:91",
+      "name": "paper",
+      "parent": "41:90",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "48:2345",
+      "name": "Login-An-forgot",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:2346",
+      "name": "paper",
+      "parent": "48:2345",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "41:368",
+      "name": "Dong-sang-DK",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "41:369",
+      "name": "paper",
+      "parent": "41:368",
+      "width": 222,
+      "height": 660
+    },
+    {
+      "id": "48:2624",
+      "name": "Dong-sang-resetpass",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:2625",
+      "name": "paper",
+      "parent": "48:2624",
+      "width": 222,
+      "height": 660
+    },
+    {
+      "id": "50:3547",
+      "name": "Dong-sang-resetpass2",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "50:3548",
+      "name": "paper",
+      "parent": "50:3547",
+      "width": 222,
+      "height": 660
+    },
+    {
+      "id": "48:3455",
+      "name": "Dong-return-DN",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "48:3456",
+      "name": "paper",
+      "parent": "48:3455",
+      "width": 222,
+      "height": 660
+    },
+    {
+      "id": "41:646",
+      "name": "Mo-DK",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "41:647",
+      "name": "paper",
+      "parent": "41:646",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "41:924",
+      "name": "Register",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "41:925",
+      "name": "paper",
+      "parent": "41:924",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "41:1202",
+      "name": "Register-An",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "41:1203",
+      "name": "paper",
+      "parent": "41:1202",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "41:1480",
+      "name": "Dong-sang-DN",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "41:1481",
+      "name": "paper",
+      "parent": "41:1480",
+      "width": 222,
+      "height": 660
+    },
+    {
+      "id": "41:1758",
+      "name": "Mo-DN",
+      "parent": "0:1",
+      "width": 1728,
+      "height": 1117
+    },
+    {
+      "id": "41:1759",
+      "name": "paper",
+      "parent": "41:1758",
+      "width": 1231,
+      "height": 660
+    },
+    {
+      "id": "2:5",
+      "name": "pallette",
+      "parent": "0:1",
+      "width": 4298,
+      "height": 427
+    },
+    {
+      "id": "59:151",
+      "name": "mermaid-output",
+      "parent": "0:1",
+      "width": 800,
+      "height": 504.9200744628906
+    }
+  ],
+  "otherNodes": [
+    {
+      "id": "1:2",
+      "name": "1793237695292_3420311594267641864_3420311594267641864_1674741e1179cc903ed7354153821a30 1",
+      "type": "RECTANGLE",
+      "x": 421,
+      "y": -6826,
+      "w": 1349,
+      "h": 1344
+    },
+    {
+      "id": "41:64",
+      "name": "Component 1",
+      "type": "COMPONENT_SET",
+      "x": 2321,
+      "y": -2374,
+      "w": 74,
+      "h": 56
+    },
+    {
+      "id": "20:36",
+      "name": "345701-PAXCPG-988 1",
+      "type": "RECTANGLE",
+      "x": -1437,
+      "y": 30,
+      "w": 1149,
+      "h": 1149
+    },
+    {
+      "id": "41:78",
+      "name": "Component 2",
+      "type": "COMPONENT_SET",
+      "x": 2503,
+      "y": -2378,
+      "w": 81,
+      "h": 60
+    },
+    {
+      "id": "59:94",
+      "name": "UX Flow",
+      "type": "WIDGET",
+      "x": 3606,
+      "y": -5290,
+      "w": 420,
+      "h": 380
+    },
+    {
+      "id": "64:95",
+      "name": "Login",
+      "type": "CODE_INSTANCE",
+      "x": 5392,
+      "y": -6194,
+      "w": 1728,
+      "h": 1117
+    },
+    {
+      "id": "91:95",
+      "name": "Interactive Login Flow",
+      "type": "CODE_INSTANCE",
+      "x": 7650,
+      "y": -1297,
+      "w": 1728,
+      "h": 1117
+    }
+  ],
+  "exclusions": {
+    "names": [
+      "pallette",
+      "palette",
+      "pallete",
+      "webname",
+      "Interactive Login Flow"
+    ],
+    "confirmedIds": [
+      "2:5",
+      "91:95"
+    ],
+    "webnameId": null
+  }
+}

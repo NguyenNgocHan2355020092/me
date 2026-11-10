@@ -1,0 +1,170 @@
+[
+  {
+    "file": "apple.svg",
+    "bytes": 827,
+    "sha256": "e48a8976940b88848d9faab2551cc391c6f1ff457198acba806f09d69cfbc7a4",
+    "width": "30",
+    "height": "30"
+  },
+  {
+    "file": "bracelet-login.svg",
+    "bytes": 46603,
+    "sha256": "71da4516f75590c5bf63b7bb6175653bf31827b4ea91090b2f07cef5a5d0138a",
+    "width": "188",
+    "height": "353"
+  },
+  {
+    "file": "bracelet-register.svg",
+    "bytes": 21121,
+    "sha256": "6ca32cbadf74cd2b5b357630a28ff5721d91889f1032b8d6e899872af6432f8c",
+    "width": "282",
+    "height": "374"
+  },
+  {
+    "file": "bracelet.svg",
+    "bytes": 22884,
+    "sha256": "1b455c7f159262c47929d254a621d1fce05325fb4eac559ecd2c649e94e8e5d7",
+    "width": "188",
+    "height": "353"
+  },
+  {
+    "file": "checkbox-checked-alt.svg",
+    "bytes": 577,
+    "sha256": "492631aa0a05dfee842bb81c02ab8b93a9540e5fb22345c34d0cb40c9ae0871b",
+    "width": "18",
+    "height": "18"
+  },
+  {
+    "file": "checkbox-checked.svg",
+    "bytes": 748,
+    "sha256": "be15bd1fd491217b1dcf2d648a9198a255fd3cd8e52d0b4c84efcca5ceb381b5",
+    "width": "19",
+    "height": "19"
+  },
+  {
+    "file": "checkbox-empty-alt.svg",
+    "bytes": 523,
+    "sha256": "2b6a6f35c0c2cb1cfa1e395042f7075145df7f26193925ba5b17191e2782080e",
+    "width": "18",
+    "height": "18"
+  },
+  {
+    "file": "checkbox-empty.svg",
+    "bytes": 700,
+    "sha256": "1762f9b12020362631c09c5a33bb6a2ccd6e522b75e5f5a996f9c8a6d86362ec",
+    "width": "19",
+    "height": "19"
+  },
+  {
+    "file": "continuebuton.svg",
+    "bytes": 7538,
+    "sha256": "7b4f45b578c747d4c10bf22116c747c52d853ec69104cfa633dae57a8afd410d",
+    "width": "220",
+    "height": "45"
+  },
+  {
+    "file": "divider.svg",
+    "bytes": 181,
+    "sha256": "2f75a53c95fb51de7953e88714abfcfb4a4df8de7a63189f0163ec301fdbceb7",
+    "width": "2",
+    "height": "483"
+  },
+  {
+    "file": "eye-off.svg",
+    "bytes": 1004,
+    "sha256": "a18266efeb40ba2251e767d819dc7a86ffde6634d1c3444a2eedc57e73858b69",
+    "width": "16.2667",
+    "height": "16.2667"
+  },
+  {
+    "file": "eye.svg",
+    "bytes": 608,
+    "sha256": "f6e8431844de262e29d2e556aab68d9bb65c08ddc23a84266e7757465dcc8438",
+    "width": "16.2667",
+    "height": "16"
+  },
+  {
+    "file": "facebook.svg",
+    "bytes": 564,
+    "sha256": "11d610d2a140e98f14d69877acb74f8d5e524670da81741174ecba98166fa985",
+    "width": "30",
+    "height": "30"
+  },
+  {
+    "file": "google.svg",
+    "bytes": 1260,
+    "sha256": "373483c71e27a0b63ce125fc27906012c7d5277fef093161a3dec955235007d9",
+    "width": "30",
+    "height": "30"
+  },
+  {
+    "file": "input-line.svg",
+    "bytes": 225,
+    "sha256": "95047f21a0a8258879ae9722b7899538ffe3b38dd6272a8284a57c4a9ad4ecf7",
+    "width": "390",
+    "height": "1"
+  },
+  {
+    "file": "loginbuton.svg",
+    "bytes": 4660,
+    "sha256": "d7c92b5e5fb57cc2f95dfbc92e6cf57fb32474d8a130f5bbb0d7dbba79d61211",
+    "width": "220",
+    "height": "45"
+  },
+  {
+    "file": "paper.svg",
+    "bytes": 1073,
+    "sha256": "d34af156fd66eb1dc5c0a4c831e8c93615d3b701671d24036eface6dddd70d0b",
+    "width": "1231",
+    "height": "660"
+  },
+  {
+    "file": "passcode.svg",
+    "bytes": 417,
+    "sha256": "a11eddc7b61fc02b47fc20ac755c5280b8caa1fb46648cf277155eee09a43b46",
+    "width": "279",
+    "height": "1"
+  },
+  {
+    "file": "password-line.svg",
+    "bytes": 225,
+    "sha256": "1df1a50cc3af235f348d2b0f36872b11253000c7bfcba8fa446aa539b362858a",
+    "width": "390",
+    "height": "1"
+  },
+  {
+    "file": "return.svg",
+    "bytes": 270,
+    "sha256": "1270c866ed7997180113bc3cfab6698988c64fe36ab44d3350667cb7b4f15e89",
+    "width": "24",
+    "height": "24"
+  },
+  {
+    "file": "returnbutton.svg",
+    "bytes": 12974,
+    "sha256": "3e8818a56702a32c79a0ae79a9e3bc2272e75db9aecd37ac87d9aa32b0b83b58",
+    "width": "220",
+    "height": "45"
+  },
+  {
+    "file": "roller-left.svg",
+    "bytes": 2769,
+    "sha256": "b329bc69ed3e0257b07e532b9a04cb8a13bc6cf64b42601e864edc362243d910",
+    "width": "171",
+    "height": "857"
+  },
+  {
+    "file": "roller-right.svg",
+    "bytes": 2762,
+    "sha256": "caa35be8677a300499d95fbf88f025e9afdd95ef93c2c6c95bfd8db0e21fc264",
+    "width": "171",
+    "height": "848"
+  },
+  {
+    "file": "signupbuton.svg",
+    "bytes": 6833,
+    "sha256": "a798c69121f7e00a95ab721b1042c1f4bd06376fd5d7aa54bdab25b0035b33ca",
+    "width": "220",
+    "height": "45"
+  }
+]

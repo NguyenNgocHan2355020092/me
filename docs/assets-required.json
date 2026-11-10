@@ -1,0 +1,249 @@
+{
+  "status": "not-downloaded",
+  "svgExportNodes": [
+    {
+      "id": "3:2",
+      "name": "paper",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "18:54",
+      "name": "Line 2",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "20:18",
+      "name": "apple",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "20:17",
+      "name": "google",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "20:20",
+      "name": "facebook",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "34:102",
+      "name": "bracelet",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "37:30",
+      "name": "loginbuton",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "20:30",
+      "name": "roller-left",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "20:35",
+      "name": "roller-right",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "48:2328",
+      "name": "continuebuton",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "48:2344",
+      "name": "return",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "48:3208",
+      "name": "passcode",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "48:3427",
+      "name": "returnbutton",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "41:958",
+      "name": "signupbuton",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    },
+    {
+      "id": "41:965",
+      "name": "bracelet",
+      "settings": [
+        {
+          "format": "SVG",
+          "suffix": "",
+          "contentsOnly": true,
+          "colorProfile": "DOCUMENT",
+          "svgOutlineText": true,
+          "svgIdAttribute": false,
+          "svgSimplifyStroke": true
+        }
+      ]
+    }
+  ],
+  "remoteIconMainComponents": [
+    {
+      "id": "18:76",
+      "name": "Eye off"
+    },
+    {
+      "id": "18:99",
+      "name": "check_box"
+    },
+    {
+      "id": "18:71",
+      "name": "Eye"
+    },
+    {
+      "id": "18:94",
+      "name": "check_box_outline_blank"
+    }
+  ],
+  "fontSpecifications": null
+}

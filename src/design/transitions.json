@@ -1,0 +1,451 @@
+[
+  {
+    "from": "1:4",
+    "to": "41:90",
+    "hotspotId": "20:23",
+    "hotspotName": "link-to-register",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "1:4",
+    "to": "48:2345",
+    "hotspotId": "18:89",
+    "hotspotName": "Forgot password?",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "41:2044",
+    "to": "48:3253",
+    "hotspotId": "48:2328",
+    "hotspotName": "continuebuton",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "41:2044",
+    "to": "50:3567",
+    "hotspotId": "48:2344",
+    "hotspotName": "return",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "48:3203",
+    "to": "48:3286",
+    "hotspotId": "48:3211",
+    "hotspotName": "continuebuton",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "48:3203",
+    "to": "48:3488",
+    "hotspotId": "48:3214",
+    "hotspotName": "return",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "48:3318",
+    "to": "48:3380",
+    "hotspotId": "48:3323",
+    "hotspotName": "continuebuton",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "48:3318",
+    "to": "48:3488",
+    "hotspotId": "48:3334",
+    "hotspotName": "return",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "48:3422",
+    "to": "48:3473",
+    "hotspotId": "48:3427",
+    "hotspotName": "returnbutton",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "48:3473",
+    "to": "48:3455",
+    "hotspotId": "48:3473",
+    "hotspotName": "forgotpass-fade4",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_IN_AND_OUT"
+      },
+      "duration": 1
+    }
+  },
+  {
+    "from": "48:3253",
+    "to": "48:3203",
+    "hotspotId": "48:3253",
+    "hotspotName": "forgotpass-fade1",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "48:3286",
+    "to": "48:3318",
+    "hotspotId": "48:3286",
+    "hotspotName": "forgotpass-fade2",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "48:3380",
+    "to": "48:3422",
+    "hotspotId": "48:3380",
+    "hotspotName": "forgotpass-fade3",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "48:2915",
+    "to": "41:2044",
+    "hotspotId": "48:2915",
+    "hotspotName": "forgotpass-An1",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "50:3567",
+    "to": "50:3547",
+    "hotspotId": "50:3567",
+    "hotspotName": "forgotpass-An2",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_IN_AND_OUT"
+      },
+      "duration": 1
+    }
+  },
+  {
+    "from": "48:3488",
+    "to": "41:2044",
+    "hotspotId": "48:3489",
+    "hotspotName": "paper",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "41:90",
+    "to": "41:368",
+    "hotspotId": "41:90",
+    "hotspotName": "Login-An-regi",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.30000001192092896
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_IN_AND_OUT"
+      },
+      "duration": 0.800000011920929
+    }
+  },
+  {
+    "from": "48:2345",
+    "to": "48:2624",
+    "hotspotId": "48:2345",
+    "hotspotName": "Login-An-forgot",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.30000001192092896
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_IN_AND_OUT"
+      },
+      "duration": 1
+    }
+  },
+  {
+    "from": "41:368",
+    "to": "41:646",
+    "hotspotId": "41:368",
+    "hotspotName": "Dong-sang-DK",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.800000011920929
+    }
+  },
+  {
+    "from": "48:2624",
+    "to": "48:2915",
+    "hotspotId": "48:2624",
+    "hotspotName": "Dong-sang-resetpass",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 1
+    }
+  },
+  {
+    "from": "50:3547",
+    "to": "41:1758",
+    "hotspotId": "50:3547",
+    "hotspotName": "Dong-sang-resetpass2",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 1
+    }
+  },
+  {
+    "from": "48:3455",
+    "to": "41:1758",
+    "hotspotId": "48:3455",
+    "hotspotName": "Dong-return-DN",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 1
+    }
+  },
+  {
+    "from": "41:646",
+    "to": "41:924",
+    "hotspotId": "41:646",
+    "hotspotName": "Mo-DK",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "41:924",
+    "to": "41:1202",
+    "hotspotId": "41:964",
+    "hotspotName": "link-to-login",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  },
+  {
+    "from": "41:1202",
+    "to": "41:1480",
+    "hotspotId": "41:1202",
+    "hotspotName": "Register-An",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.30000001192092896
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_IN_AND_OUT"
+      },
+      "duration": 0.800000011920929
+    }
+  },
+  {
+    "from": "41:1480",
+    "to": "41:1758",
+    "hotspotId": "41:1480",
+    "hotspotName": "Dong-sang-DN",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.800000011920929
+    }
+  },
+  {
+    "from": "41:1758",
+    "to": "1:4",
+    "hotspotId": "41:1758",
+    "hotspotName": "Mo-DN",
+    "trigger": {
+      "type": "AFTER_TIMEOUT",
+      "timeout": 0.8
+    },
+    "animation": {
+      "type": "SMART_ANIMATE",
+      "easing": {
+        "type": "EASE_OUT"
+      },
+      "duration": 0.30000001192092896
+    }
+  }
+]

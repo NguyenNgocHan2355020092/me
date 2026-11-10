@@ -1,0 +1,674 @@
+[
+  {
+    "frameOrSetId": "1:4",
+    "hotspotId": "41:84",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "1:4",
+    "hotspotId": "41:87",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "1:4",
+    "hotspotId": "41:67",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "1:4",
+    "hotspotId": "41:81",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:76",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:3318",
+    "hotspotId": "48:3341",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:3318",
+    "hotspotId": "48:3346",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:3286",
+    "hotspotId": "48:3359",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:3286",
+    "hotspotId": "48:3364",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:3380",
+    "hotspotId": "48:3406",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:3380",
+    "hotspotId": "48:3411",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:3488",
+    "hotspotId": "48:3531",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:3488",
+    "hotspotId": "48:3536",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:90",
+    "hotspotId": "41:115",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:90",
+    "hotspotId": "41:120",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:90",
+    "hotspotId": "41:286",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:90",
+    "hotspotId": "41:288",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:76",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:2345",
+    "hotspotId": "48:2370",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:2345",
+    "hotspotId": "48:2375",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:2345",
+    "hotspotId": "48:2541",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "48:2345",
+    "hotspotId": "48:2543",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:76",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:368",
+    "hotspotId": "41:393",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:368",
+    "hotspotId": "41:398",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:368",
+    "hotspotId": "41:564",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:368",
+    "hotspotId": "41:566",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:76",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:646",
+    "hotspotId": "41:671",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:646",
+    "hotspotId": "41:676",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:646",
+    "hotspotId": "41:842",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:646",
+    "hotspotId": "41:844",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:76",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:924",
+    "hotspotId": "41:949",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:924",
+    "hotspotId": "41:954",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:924",
+    "hotspotId": "41:1120",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:924",
+    "hotspotId": "41:1122",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:76",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1202",
+    "hotspotId": "41:1227",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1202",
+    "hotspotId": "41:1232",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1202",
+    "hotspotId": "41:1398",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1202",
+    "hotspotId": "41:1400",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:76",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1480",
+    "hotspotId": "41:1505",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1480",
+    "hotspotId": "41:1510",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1480",
+    "hotspotId": "41:1676",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1480",
+    "hotspotId": "41:1678",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:76",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1758",
+    "hotspotId": "41:1783",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1758",
+    "hotspotId": "41:1788",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1758",
+    "hotspotId": "41:1954",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:1758",
+    "hotspotId": "41:1956",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:76",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:64",
+    "hotspotId": "41:61",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:62",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:64",
+    "hotspotId": "41:62",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:61",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:78",
+    "hotspotId": "41:76",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:77",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  },
+  {
+    "frameOrSetId": "41:78",
+    "hotspotId": "41:77",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "action": {
+      "type": "NODE",
+      "destinationId": "41:76",
+      "navigation": "CHANGE_TO",
+      "transition": null,
+      "resetVideoPosition": false
+    }
+  }
+]

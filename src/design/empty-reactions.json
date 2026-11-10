@@ -1,0 +1,18 @@
+[
+  {
+    "frameId": "48:2915",
+    "hotspotId": "48:2916",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "actions": []
+  },
+  {
+    "frameId": "50:3567",
+    "hotspotId": "50:3568",
+    "trigger": {
+      "type": "ON_CLICK"
+    },
+    "actions": []
+  }
+]
