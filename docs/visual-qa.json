@@ -1,0 +1,55 @@
+{
+  "framesCaptured": 23,
+  "pixelEquivalentCaptureAliases": {
+    "48:2624": "50:3547",
+    "41:646": "41:1758"
+  },
+  "brokenAssets": 0,
+  "paperGeometryMismatches": 0,
+  "stableComparisons": [
+    {
+      "frame": "1:4",
+      "mean_absolute_rgb_error_0_255": 1.264,
+      "pixels_over_30_percent": 0.82,
+      "comparison": "Browser artboard uniformly normalized to Figma screenshot dimensions. JPEG capture and anti-aliasing affect the metric; this is not a pixel-perfect certification."
+    },
+    {
+      "frame": "41:924",
+      "mean_absolute_rgb_error_0_255": 1.401,
+      "pixels_over_30_percent": 1.031,
+      "comparison": "Browser artboard uniformly normalized to Figma screenshot dimensions. JPEG capture and anti-aliasing affect the metric; this is not a pixel-perfect certification."
+    },
+    {
+      "frame": "41:2044",
+      "mean_absolute_rgb_error_0_255": 1.057,
+      "pixels_over_30_percent": 0.573,
+      "comparison": "Browser artboard uniformly normalized to Figma screenshot dimensions. JPEG capture and anti-aliasing affect the metric; this is not a pixel-perfect certification."
+    },
+    {
+      "frame": "48:3203",
+      "mean_absolute_rgb_error_0_255": 1.101,
+      "pixels_over_30_percent": 0.611,
+      "comparison": "Browser artboard uniformly normalized to Figma screenshot dimensions. JPEG capture and anti-aliasing affect the metric; this is not a pixel-perfect certification."
+    },
+    {
+      "frame": "48:3318",
+      "mean_absolute_rgb_error_0_255": 1.126,
+      "pixels_over_30_percent": 0.631,
+      "comparison": "Browser artboard uniformly normalized to Figma screenshot dimensions. JPEG capture and anti-aliasing affect the metric; this is not a pixel-perfect certification."
+    },
+    {
+      "frame": "48:3422",
+      "mean_absolute_rgb_error_0_255": 1.182,
+      "pixels_over_30_percent": 0.734,
+      "comparison": "Browser artboard uniformly normalized to Figma screenshot dimensions. JPEG capture and anti-aliasing affect the metric; this is not a pixel-perfect certification."
+    }
+  ],
+  "viewport": [
+    1363,
+    936
+  ],
+  "nativeDesign": [
+    1728,
+    1117
+  ]
+}
